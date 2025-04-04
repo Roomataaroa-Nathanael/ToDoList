@@ -8,6 +8,9 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="lib" path="C:/Users/rooma/Downloads/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/rooma/Downloads/mockito-core-5.11.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rooma/Downloads/byte-buddy-1.17.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rooma/Downloads/objenesis-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rooma/Downloads/byte-buddy-agent-1.17.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rooma/Downloads/mockito-core-5.16.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
